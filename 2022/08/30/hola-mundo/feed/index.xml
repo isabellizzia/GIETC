@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en: ¡Hola mundo!	</title>
-	<atom:link href="http://isabellizzia.github.io/GIETC/2022/08/30/hola-mundo/feed/" rel="self" type="application/rss+xml" />
-	<link>http://isabellizzia.github.io/GIETC/2022/08/30/hola-mundo/</link>
+	<atom:link href="https://isabellizzia.github.io/GIETC/2022/08/30/hola-mundo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://isabellizzia.github.io/GIETC/2022/08/30/hola-mundo/</link>
 	<description>Keeping you Cool, in Every Step</description>
 	<lastBuildDate>Wed, 31 Aug 2022 00:49:47 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Por: Un comentarista de WordPress		</title>
-		<link>http://isabellizzia.github.io/GIETC/2022/08/30/hola-mundo/#comment-1</link>
+		<link>https://isabellizzia.github.io/GIETC/2022/08/30/hola-mundo/#comment-1</link>
 
 		<dc:creator><![CDATA[Un comentarista de WordPress]]></dc:creator>
 		<pubDate>Wed, 31 Aug 2022 00:49:47 +0000</pubDate>
-		<guid isPermaLink="false">http://isabellizzia.github.io/GIETC/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://isabellizzia.github.io/GIETC/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hola, esto es un comentario.
 Para empezar a moderar, editar y borrar comentarios, por favor, visita en el escritorio la pantalla de comentarios.
