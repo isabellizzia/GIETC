@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+15:36:38	295/295	---M--	404	error ('Not%20Found')	text/html	date:Sun,%2011%20Sep%202022%2020:36:37%20GMT	http://localhost/robots.txt		(from )
+15:36:43	224183/224183	---MC-	200	added ('OK')	text/html	date:Sun,%2011%20Sep%202022%2020:36:38%20GMT	http://localhost/gietc/	C:/Users/Usuario/Documents/project1/localhost/gietc/index.html	(from )
